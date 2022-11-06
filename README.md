@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Drishti
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Drishti is a software created as a project for Define hack 2022.
+This app aims to make reporting and spreading the news of accidents and dangers easier and effective. 
+## All repo links
+- [Web Front-End](https://github.com/Liya-Susan/Drishti/)
+- [Android](https://github.com/fal3n-4ngel/drishti)
+- [Web Back-End](   )
+## The Problem
+   Accidents due to stepping on snapped power cables etc and getting common nowadays ,especially during the rainy days. Drishti offers a simple yet elegant way to solve this problem and much more.
+   
+  
 
-## Available Scripts
+## The solution
+  Drishti offers a simple and easy platform to report and get alerts on incidents happening in our locality.It will also redirect the cases to respective authorities.
+  
+  - Drishti lets you report the incidents(like snapped powerlines or broken pipelines easily and effectively through our mobile application.
+  - The webservice allows the admins to knowabout these reports in real time and respond to it more efficiently.
+  - The app also notifies every Drishti user in your locality about Grade 2(midly or highly dangerous) or above reports.
+  - you can also now the statu of your reports through our portal.
 
-In the project directory, you can run:
+[Prototype link(figma)](https://www.figma.com/proto/iY2avWglgTX1P9ePy54zIr/App?node-id=87%3A97&scaling=min-zoom&page-id=24%3A330&starting-point-node-id=99%3A137)
+  
+## Frameworks and ServicesUsed
+[![](https://skillicons.dev/icons?i=flutter,androidstudio,bootstrap,figma,heroku,js,mongodb,react)](https://skillicons.dev)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contributors
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```markdown   
 
-### `npm test`
+# Friendly Neighborhood Tekys
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Abhishek Raman R - Front End Developer   [ Android ]
+Aditya Krishnan - Full Stack Developer   [ Android ]
+Christina Mathhews - Front End Designer  [ Web]
+Ferwin Lopez - UI/UX Designer        [ Android/Web]
+Liya Susan Biju - Full Stack developer [Web]
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+ 
